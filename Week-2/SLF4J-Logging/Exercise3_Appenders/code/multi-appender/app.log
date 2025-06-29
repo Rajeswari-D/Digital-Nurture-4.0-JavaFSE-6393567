@@ -1,0 +1,4 @@
+23:23:45.703 [com.cognizant.slf4j.exercise3.App.main()] INFO  com.cognizant.slf4j.exercise3.App - Logging to both console and file.
+23:23:45.705 [com.cognizant.slf4j.exercise3.App.main()] DEBUG com.cognizant.slf4j.exercise3.App - Debug message here.
+23:23:45.705 [com.cognizant.slf4j.exercise3.App.main()] WARN  com.cognizant.slf4j.exercise3.App - Warning issued.
+23:23:45.705 [com.cognizant.slf4j.exercise3.App.main()] ERROR com.cognizant.slf4j.exercise3.App - An error occurred.
