@@ -10,3 +10,4 @@ public class Springlearnresth6Application {
         SpringApplication.run(Springlearnresth6Application.class, args);
     }
 }
+Springlearnresth7ApplicationTests
